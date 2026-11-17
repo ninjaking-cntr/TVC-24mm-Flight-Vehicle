@@ -8,7 +8,7 @@ I=0.006 #moment of inertia, kg·m²
 k_aero=50 #aerodynamic indstability,1/s^2
 Kp=2.0
 Kd=0.13
-Ki=40 #integral gain, 1/s
+Ki=10 #integral gain, 1/s
 t_burn=0.5 #motor burn time, s
 wind_alpha=10 #crosswind disturbance, rad/s^2
 
